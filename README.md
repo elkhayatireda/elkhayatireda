@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reda El Khayati</h1>
 <h3 align="center">A passionate full stack developer from Morocco 🇲🇦</h3>
 
-- 🌱 I’m currently learning **data analysis**
+- 🌱 I’m currently learning **data engineering**
 
 - 💬 Ask me about **react nodejs expressjs mongoDb**
 
